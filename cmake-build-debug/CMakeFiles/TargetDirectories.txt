@@ -1,0 +1,3 @@
+B:/Faculty/CSE Level 4/First Term/Parallel Computing/Labs/Project/cmake-build-debug/CMakeFiles/Project.dir
+B:/Faculty/CSE Level 4/First Term/Parallel Computing/Labs/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/Faculty/CSE Level 4/First Term/Parallel Computing/Labs/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
